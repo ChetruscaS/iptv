@@ -3,8 +3,6 @@
 http://188.237.212.16:8888/live/cameraFeed.m3u8
 #EXTINF:-1 group-title="Moldova" tvg-logo="https://i.imgur.com/eAagwLW.png",Tezaur TV (1080p)
 http://tezaur.mlbfan.org/tezaur/index.m3u8
-
-
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",Antena 3 CNN
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 #EXTINF:-1 group-title="Romania" tvg-logo="https://i.imgur.com/C5dIgsc.png",Columna TV (720p)
@@ -37,8 +35,6 @@ http://iptv.supertv.ro:8000/play/a001/index.m3u8
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 group-title="Romania" tvg-logo="https://i.imgur.com/GhFmUVO.png",TV Buzau (576p)
 http://78.96.33.89:8080
-
-
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/pervy.png",Первый (HD ready)
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png",360° (HD)
