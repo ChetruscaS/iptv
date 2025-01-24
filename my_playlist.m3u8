@@ -3,6 +3,8 @@
 http://188.237.212.16:8888/live/cameraFeed.m3u8
 #EXTINF:-1 group-title="Moldova" tvg-logo="https://i.imgur.com/eAagwLW.png",Tezaur TV (1080p)
 http://tezaur.mlbfan.org/tezaur/index.m3u8
+
+
 #EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",Antena 3 CNN
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 #EXTINF:-1 group-title="Romania" tvg-logo="https://i.imgur.com/C5dIgsc.png",Columna TV (720p)
@@ -19,13 +21,13 @@ http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1 group-title="Romania" tvg-logo="https://i.imgur.com/Gzq05v8.png",Metropola TV (1080p) [Not 24/7]
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/2RxQNm6.png",MISA TV (720p)
+#EXTINF:-1 group-title="Romania" tvg-logo="https://i.imgur.com/2RxQNm6.png",MISA TV (720p)
 https://vid4.misatv.ro:5050/MSTV/romanian/playlist.m3u8
 #EXTINF:-1 group-title="Romania" tvg-logo="https://i.imgur.com/GvyF2Wh.png",Qub TV (720p)
 https://live.djemba.ro/live/qubtvlive/playlist.m3u8
 #EXTINF:-1 group-title="Romania" tvg-logo="https://i.imgur.com/EvIDGyR.png",Rapsodia TV (576p)
 http://92.86.248.141:8080/ram/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/0TDnVQ4.png",ROTV Valencia (720p)
+#EXTINF:-1 group-title="Romania" tvg-logo="https://i.imgur.com/0TDnVQ4.png",ROTV Valencia (720p)
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 #EXTINF:-1 group-title="Romania" tvg-logo="https://i.imgur.com/3QUH7WS.png",Smart TV (720p)
 https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8
@@ -35,6 +37,8 @@ http://iptv.supertv.ro:8000/play/a001/index.m3u8
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 group-title="Romania" tvg-logo="https://i.imgur.com/GhFmUVO.png",TV Buzau (576p)
 http://78.96.33.89:8080
+
+
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/pervy.png",Первый (HD ready)
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png",360° (HD)
